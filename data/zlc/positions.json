@@ -729,7 +729,7 @@
         "LSV": {
           "callsign": "Nellis Approach",
           "frequency": "124.950",
-          "pre": ["TPH"],
+          "pre": ["LSV"],
           "type": "APP",
           "colours": [
             {
