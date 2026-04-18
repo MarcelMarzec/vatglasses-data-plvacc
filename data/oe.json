@@ -2508,7 +2508,6 @@
             "group": "FIN",
             "owner": [
                 "APFE",
-                "APFE",
                 "JNA",
                 "JTC1",
                 "JC1"
@@ -2580,6 +2579,7 @@
             "group": "FIN",
             "owner": [
                 "APFW",
+				"APFE",
                 "JNA",
                 "JTC1",
                 "JC1"
